@@ -81,8 +81,8 @@ Create → Sync
 6) Verificar:
    ```bash
    kubectl get pods -n default
-kubectl get svc  -n default
-```
+   kubectl get svc  -n default
+   ```
 
 7) Acessar o frontend:
 ```bash
